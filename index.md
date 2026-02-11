@@ -1,5 +1,5 @@
 ---
-alt_title: "Branden On"
+title: "Branden On"
 sub_title: "Portfolio"
 introduction: |
 Creative Strategist and Multimedia Producer with 8+ years of experience delivering high-impact visual narratives for education, arts, and commercial sectors
