@@ -1,0 +1,216 @@
+{
+  "basics": {
+    "name": "Branden On",
+    "label": "",
+    "picture": "https://example.com/photo.jpg",
+    "email": "on.branden@gmail.com",
+    "phone": "(343)-254-0843",
+    "url": "http://brandenon.com",
+    "summary": "Creative Strategist and Multimedia Producer with 8+ years of experience delivering high-impact visual narratives for education, arts, and commercial sectors. Proven track record of managing $900K+ in project value and producing 50+ hours of specialized motion content. Expert in leveraging the Adobe Creative Suite among others in a vast software toolkit to drive brand visibility and stakeholder engagement.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Ottawa",
+      "countryCode": "Canada",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Branden On",
+        "url": "https://www.linkedin.com/in/branden-on-967bb6165/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Mountain Warehouse",
+      "position": "Store Manager",
+      "url": "https://www.mountainwarehouse.com/ca/",
+      "startDate": "2024-10-01",
+      "endDate": "2026-02-02",
+      "summary": "",
+      "highlights": [
+        "Directed high-level store operations leading to record-breaking sales, surpassing the $1 million in 12 month sales milestone for the first time ever",
+        "Mentored a high-performing team to maintain consistent brand voice and service standards during a period of record-breaking growth",
+        "Exceeded sales targets consistently while interacting with 200+ customers per day, using effective upselling, cross-selling, and customer needs analysis",
+        "Ensured customer satisfaction and repeat sales by focusing on customer relationship-building and by proactively addressing customer concerns"
+      ],
+      "name": "Mountain Warehouse",
+      "location": "Ottawa, ON"
+    },
+    {
+      "company": "Training Works",
+      "position": "Multimedia Specialist",
+      "url": "https://www.training-works.ca/",
+      "startDate": "2021-01-02",
+      "endDate": "2023-08-15",
+      "summary": "",
+      "highlights": [
+        "Executed end-to-end production for 50+ hours of safety videos using motion animation, contributing to a 29% reduction in client’s workplace incidents",
+        "Played a key role in securing $500K+ in funding by drafting and proofreading applications, ensuring the accuracy and client alignment of RFPs and proposals",
+        "Created diverse media such as landing pages, one-pagers, white papers, case studies, and slide decks for distilling technical information for B2B clients",
+        "Ensured 100% on-time delivery across concurrent projects by using Sharepoint, having created a streamlined and straightforward feedback and approval process"
+      ],
+      "name": "Training Works",
+      "location": "St. John's, NL"
+    },
+    {
+      "company": "Neighbourhood Dance Works",
+      "position": "Marketing & PR Coordinator",
+      "startDate": "2020-06-02",
+      "endDate": "2020-12-31",
+      "location": "St. John's, NL",
+      "url": "https://www.neighbourhooddanceworks.com/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Secured mainstream news coverage via 12+ national media contacts and designed marketing materials such as social media, brochures, and web media",
+        "Created brochures, posts, and webpages to increase NDW event reach"
+      ],
+      "name": "Neighbourhood Dance Works"
+    },
+    {
+      "company": "Classic Hits Coast 101.1 FM",
+      "position": "Promotions and Programming Coordinator",
+      "startDate": "2019-10-01",
+      "endDate": "2020-04-15",
+      "location": "St. John's, NL",
+      "url": "https://www.coast1011.com/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Programmed 24 hours of daily music targeted to the radio station’s demographics, and organically integrated 35% Canadian content as required by law",
+        "Produced high-level radio advertising for 20+ clients on the local and national level"
+      ],
+      "name": "Classic Hits Coast 101.1 FM"
+    },
+    {
+      "company": "Oni Food Co",
+      "position": "Owner",
+      "startDate": "2023-08-02",
+      "endDate": "2025-12-30",
+      "location": "Ottawa, ON",
+      "url": "https://onifood.co/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Scaled a shelf-stable food brand from concept to retail, achieving a 35% ROI in year one through targeted social media and Shopify optimization",
+        "Drove sales of 1K+ units through a multi-channel strategy, including customer engagement at markets, online sales via Shopify, and a subscription service",
+        "Built a customer base through in-person marketing and as well as implementing an effective online sales strategy using social media and email marketing"
+      ],
+      "name": "Oni Food Co"
+    },
+    {
+      "company": "Concordia University",
+      "position": "Teaching Assistant",
+      "startDate": "2018-10-02",
+      "endDate": "2019-05-30",
+      "location": "Montreal, QC",
+      "url": "https://www.concordia.ca/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Assisted 30+ students in lab tutorials, marked quizzes and final assignments",
+        "Provided detailed 1 on 1 instruction to students with sound software and hardware"
+      ],
+      "name": "Concordia University"
+    },
+    {
+      "company": "UserTesting",
+      "position": "Freelance UX Consultant",
+      "startDate": "2014-06-02",
+      "endDate": "2024-06-02",
+      "location": "Remote",
+      "url": "https://www.usertesting.com/",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Achieved and maintained a five-star rating providing feedback on over 100 web designs and prototypes for companies such as Airbnb, WestJet, and Walmart",
+        "Effectively described issues and highlighted features using screen recording and live video conferencing software, working with the client directly"
+      ],
+      "name": "UserTesting"
+    },
+    {
+      "company": "Freelance",
+      "position": "Sound and Media Designer",
+      "startDate": "2018-01-02",
+      "endDate": "2019-12-02",
+      "location": "Montreal, QC",
+      "url": "http://brandenon.com",
+      "summary": "",
+      "description": "",
+      "highlights": [
+        "Wapikoni - Created six original soundtracks for use in workshop short films",
+        "Mdex & Co - Produced 30+ chapters of high production value audiobook content",
+        "snapcakes.co - Launched brand through logo design, website setup, brand strategy"
+      ],
+      "name": "Freelance"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CEED Concordia",
+      "position": "Communications and Youth Advocacy Intern",
+      "url": "https://ceedconcordia.org/en/home/",
+      "startDate": "2017-06-02",
+      "endDate": "2017-08-30",
+      "summary": "",
+      "highlights": [
+        "Produced a radio show with Radio Rupiny showcasing local success stories",
+        "Directed production on video documentaries for each radio show guest; coached and involved team members new to media production in the process"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Concordia University, Montreal, QC",
+      "area": "Communication Studies with Distinction (Dean's List)",
+      "studyType": "Bachelor",
+      "startDate": "2015-10-01",
+      "endDate": "2019-05-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Design/Motion",
+      "level": "",
+      "keywords": [
+        "Adobe After Effects",
+        "Adobe Illustrator",
+        "2D Vector Animation",
+        "Figma"
+      ]
+    },
+    {
+      "name": "Strategy",
+      "level": "",
+      "keywords": [
+        "Multi-channel Marketing",
+        "Media Partnerships",
+        "UX Consulting"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Shopify",
+        "Airtable",
+        "Miro"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Functional"
+    }
+  ]
+}
