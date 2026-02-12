@@ -28,7 +28,7 @@
       "position": "Store Manager",
       "url": "https://www.mountainwarehouse.com/ca/",
       "startDate": "2024-10-01",
-      "endDate": "2026-02-02",
+      "endDate": "2026-01-31",
       "summary": "",
       "highlights": [
         "Directed high-level store operations leading to record-breaking sales, surpassing the $1 million in 12 month sales milestone for the first time ever",
@@ -43,7 +43,7 @@
       "company": "Training Works",
       "position": "Multimedia Specialist",
       "url": "https://www.training-works.ca/",
-      "startDate": "2021-01-02",
+      "startDate": "2021-01-01",
       "endDate": "2023-08-15",
       "summary": "",
       "highlights": [
@@ -58,7 +58,7 @@
     {
       "company": "Neighbourhood Dance Works",
       "position": "Marketing & PR Coordinator",
-      "startDate": "2020-06-02",
+      "startDate": "2020-06-01",
       "endDate": "2020-12-31",
       "location": "St. John's, NL",
       "url": "https://www.neighbourhooddanceworks.com/",
@@ -88,8 +88,8 @@
     {
       "company": "Oni Food Co",
       "position": "Owner",
-      "startDate": "2023-08-02",
-      "endDate": "2025-12-30",
+      "startDate": "2023-08-01",
+      "endDate": "2025-12-31",
       "location": "Ottawa, ON",
       "url": "https://onifood.co/",
       "summary": "",
@@ -104,7 +104,7 @@
     {
       "company": "Concordia University",
       "position": "Teaching Assistant",
-      "startDate": "2018-10-02",
+      "startDate": "2018-09-01",
       "endDate": "2019-05-30",
       "location": "Montreal, QC",
       "url": "https://www.concordia.ca/",
@@ -119,8 +119,8 @@
     {
       "company": "UserTesting",
       "position": "Freelance UX Consultant",
-      "startDate": "2014-06-02",
-      "endDate": "2024-06-02",
+      "startDate": "2014-06-01",
+      "endDate": "2024-06-01",
       "location": "Remote",
       "url": "https://www.usertesting.com/",
       "summary": "",
@@ -134,8 +134,8 @@
     {
       "company": "Freelance",
       "position": "Sound and Media Designer",
-      "startDate": "2018-01-02",
-      "endDate": "2019-12-02",
+      "startDate": "2018-01-01",
+      "endDate": "2019-12-31",
       "location": "Montreal, QC",
       "url": "http://brandenon.com",
       "summary": "",
@@ -153,7 +153,7 @@
       "organization": "CEED Concordia",
       "position": "Communications and Youth Advocacy Intern",
       "url": "https://ceedconcordia.org/en/home/",
-      "startDate": "2017-06-02",
+      "startDate": "2017-06-01",
       "endDate": "2017-08-30",
       "summary": "",
       "highlights": [
@@ -165,12 +165,9 @@
   "education": [
     {
       "institution": "Concordia University, Montreal, QC",
-      "area": "Communication Studies with Distinction (Dean's List)",
-      "studyType": "Bachelor",
-      "startDate": "2015-10-01",
+      "area": "Bachelor of Communication Studies with Distinction (Dean's List)",
+      "startDate": "2015-09-01",
       "endDate": "2019-05-30",
-      "gpa": "",
-      "courses": []
     }
   ],
   "skills": [
@@ -199,7 +196,9 @@
       "keywords": [
         "Shopify",
         "Airtable",
-        "Miro"
+        "Miro",
+        "Trello",
+        "Mailchimp"
       ]
     }
   ],
