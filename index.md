@@ -3,7 +3,7 @@ introduction: "*Creative Strategist and Multimedia Producer with 8+ years of exp
 layout: category
 taxonomy: portfolio
 # entries_layout: grid
-image: /assets/images/Branden-On.jpg
+image: /assets/images/Branden-On-banner-edited.JPG
 ---
 
 My name is Branden On - I am a creative professional living in Ottawa, ON, Canada. This is a collection of my media works going all the way back to my time at Concordia University in 2015.
