@@ -1,6 +1,7 @@
 ---
 layout: post
-alt_title: RFP Proposal
+alt_title: RFP Proposal Template
+title: RFP Proposal Template
 comments: false
 category: portfolio
 introduction: Document template designed for submitting RFP proposals.
