@@ -6,5 +6,5 @@ category: portfolio
 introduction: Document designed for an RFP proposal.
 ---
 <div class="embed-responsive embed-responsive-16by9">
-	<iframe src="/assets/documents/rfp-proposal.pdf" width="100%" height="600px" frameborder="0"></iframe>
+	<iframe src="https://drive.google.com/file/d/13TQ1jE0YQJT7iy8chPY55NMnhe-_70Q-/preview" width="640" height="480"></iframe>
 </div>
