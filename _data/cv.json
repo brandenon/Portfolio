@@ -2,10 +2,10 @@
   "basics": {
     "name": "Branden On",
     "label": "",
-    "picture": "https://example.com/photo.jpg",
+    "picture": "",
     "email": "branden(@)brandenon.com",
     "url": "http://brandenon.com",
-    "summary": "Creative Strategist and Multimedia Producer with 8+ years of experience delivering high-impact visual narratives for education, arts, and commercial sectors. Proven track record of managing $900K+ in project value and producing 50+ hours of specialized motion content. Expert in leveraging the Adobe Creative Suite among others in a vast software toolkit to drive brand visibility and stakeholder engagement.",
+    "summary": "Creative Strategist and Systems Builder with 8+ years of experience blending media production, technical automation, and entrepreneurial leadership to streamline workflows and drive business growth.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,7 +21,7 @@
       }
     ]
   },
-  "work": [
+  "professional experience": [
     {
       "company": "Mountain Warehouse",
       "position": "Store Manager",
@@ -30,10 +30,8 @@
       "endDate": "2026-01-31",
       "summary": "",
       "highlights": [
-        "Directed high-level store operations leading to record-breaking sales, surpassing the $1 million in 12 month sales milestone for the first time ever",
-        "Mentored a high-performing team to maintain consistent brand voice and service standards during a period of record-breaking growth",
-        "Exceeded sales targets consistently while interacting with 200+ customers per day, using effective upselling, cross-selling, and customer needs analysis",
-        "Ensured customer satisfaction and repeat sales by focusing on customer relationship-building and by proactively addressing customer concerns"
+        "Turned around an underperforming store with effective coaching, process improvement (Excel automation), and motivation, leading the sales team to pass the $1M milestone in 12 months for the first time ever while exceeding other KPIs",
+        "Learned inventory management, visual merchandising, and sales skills to excel and be promoted from part-time Sales Associate to Store Manager in under 10 months"
       ],
       "name": "Mountain Warehouse",
       "location": "Ottawa, ON"
@@ -46,10 +44,9 @@
       "endDate": "2023-08-15",
       "summary": "",
       "highlights": [
-        "Executed end-to-end production for 50+ hours of safety videos using motion animation, contributing to a 29% reduction in client’s workplace incidents",
-        "Played a key role in securing $500K+ in funding by drafting and proofreading applications, ensuring the accuracy and client alignment of RFPs and proposals",
-        "Created diverse media such as landing pages, one-pagers, white papers, case studies, and slide decks for distilling technical information for B2B clients",
-        "Ensured 100% on-time delivery across concurrent projects by using Sharepoint, having created a streamlined and straightforward feedback and approval process"
+        "Created 50+ hours of safety training animation using the Adobe Suite (After Effects, Premiere Pro, etc) that contributed to a 29% decrease in workplace incidents",
+        "Delivered end-to-end media projects with a 100% on-time rate by developing an internal production approval system using Power Automate and Airtable",
+        "Helped secure $500k+ in funding through RFP drafting and follow-up report design using Adobe InDesign and the Microsoft Suite (Word, Powerpoint, etc)"
       ],
       "name": "Training Works",
       "location": "St. John's, NL"
@@ -64,10 +61,11 @@
       "summary": "",
       "description": "",
       "highlights": [
-        "Secured mainstream news coverage via 12+ national media contacts and designed marketing materials such as social media, brochures, and web media",
-        "Created brochures, posts, and webpages to increase NDW event reach"
+        "Nurtured relationships with 14+ media outlets and increased social media engagement on Instagram and Facebook to promote NDW events",
+        "Engaged with 30+ dance artists through planning a Virtual Festival Residency during the pandemic using Squarespace, Zoom, Miro, and other digital tools"
       ],
-      "name": "Neighbourhood Dance Works"
+      "name": "Neighbourhood Dance Works",
+      "location": "St. John's, NL"
     },
     {
       "company": "Classic Hits Coast 101.1 FM",
@@ -79,11 +77,14 @@
       "summary": "",
       "description": "",
       "highlights": [
-        "Programmed 24 hours of daily music targeted to the radio station’s demographics, and organically integrated 35% Canadian content as required by law",
-        "Produced high-level radio advertising for 20+ clients on the local and national level"
+        "Used attention to detail to program 24/7 music schedules and produce 40+ national and local ad campaigns with Pro Tools and other audio software and plugins",
+        "Automated ad-spot auditing with Python, saving the station 100+ hours annually"
       ],
-      "name": "Classic Hits Coast 101.1 FM"
-    },
+      "name": "Classic Hits Coast 101.1 FM",
+      "location": "St. John's, NL"
+    }
+  ],
+  "entrepreneurial and consulting experience": [
     {
       "company": "Oni Food Co",
       "position": "Owner",
@@ -94,11 +95,10 @@
       "summary": "",
       "description": "",
       "highlights": [
-        "Scaled a shelf-stable food brand from concept to retail, achieving a 35% ROI in year one through targeted social media and Shopify optimization",
-        "Drove sales of 1K+ units through a multi-channel strategy, including customer engagement at markets, online sales via Shopify, and a subscription service",
-        "Built a customer base through in-person marketing and as well as implementing an effective online sales strategy using social media and email marketing"
+        "Built a retail business from the ground up on Shopify and at in-person farmers’ markets, achieving 35% ROI in year one and selling 1000+ CPG units"
       ],
-      "name": "Oni Food Co"
+      "name": "Oni Food Co",
+      "location": "Ottawa, ON"
     },
     {
       "company": "Concordia University",
@@ -110,10 +110,23 @@
       "summary": "",
       "description": "",
       "highlights": [
-        "Assisted 30+ students in lab tutorials, marked quizzes and final assignments",
-        "Provided detailed 1 on 1 instruction to students with sound software and hardware"
+        "Supported the success of 30+ students in their studies through teaching media lab tutorials, one-on-one instruction, and end-of-term audio assignment marking"
       ],
-      "name": "Concordia University"
+      "name": "Concordia University",
+      "location": "Montreal, QC"
+    },
+    {
+      "organization": "CEED Concordia",
+      "position": "Communications and Youth Advocacy Intern",
+      "location": "Montreal, QC",
+      "url": "https://ceedconcordia.org/en/home/",
+      "startDate": "2017-06-01",
+      "endDate": "2017-08-30",
+      "summary": "",
+      "highlights": [
+        "Provided exposure to five well-deserving Ugandan entrepreneurs, expanding their audience to over 2000 people through producing a monthly radio show",
+        "Developed a documentary on CEED Concordia, providing exposure to the program and teaching media production skills and practices to other interns in the program"
+      ]
     },
     {
       "company": "UserTesting",
@@ -125,10 +138,10 @@
       "summary": "",
       "description": "",
       "highlights": [
-        "Achieved and maintained a five-star rating providing feedback on over 100 web designs and prototypes for companies such as Airbnb, WestJet, and Walmart",
-        "Effectively described issues and highlighted features using screen recording and live video conferencing software, working with the client directly"
+        "Achieved a 5-star rating providing usability feedback on over 100 web tests and prototypes for high-profile companies like Airbnb, Walmart, RBC, and WestJet"
       ],
-      "name": "UserTesting"
+      "name": "UserTesting",
+      "location": "Remote"
     },
     {
       "company": "Freelance",
@@ -144,21 +157,8 @@
         "Mdex & Co - Produced 30+ chapters of high production value audiobook content",
         "snapcakes.co - Launched brand through logo design, website setup, brand strategy"
       ],
-      "name": "Freelance"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CEED Concordia",
-      "position": "Communications and Youth Advocacy Intern",
-      "url": "https://ceedconcordia.org/en/home/",
-      "startDate": "2017-06-01",
-      "endDate": "2017-08-30",
-      "summary": "",
-      "highlights": [
-        "Produced a radio show with Radio Rupiny showcasing local success stories",
-        "Directed production on video documentaries for each radio show guest; coached and involved team members new to media production in the process"
-      ]
+      "name": "Freelance",
+      "location": "Montreal, QC"
     }
   ],
   "education": [
