@@ -21,7 +21,7 @@
       }
     ]
   },
-  "professional experience": [
+  "work": [
     {
       "company": "Mountain Warehouse",
       "position": "Store Manager",
@@ -82,9 +82,7 @@
       ],
       "name": "Classic Hits Coast 101.1 FM",
       "location": "St. John's, NL"
-    }
-  ],
-  "entrepreneurial and consulting experience": [
+    },
     {
       "company": "Oni Food Co",
       "position": "Owner",
@@ -116,17 +114,20 @@
       "location": "Montreal, QC"
     },
     {
-      "organization": "CEED Concordia",
+      "company": "CEED Concordia",
       "position": "Communications and Youth Advocacy Intern",
-      "location": "Montreal, QC",
-      "url": "https://ceedconcordia.org/en/home/",
       "startDate": "2017-06-01",
       "endDate": "2017-08-30",
+      "location": "Gulu, Uganda",
+      "url": "https://ceedconcordia.org/en/home/",
       "summary": "",
+      "description": "",
       "highlights": [
         "Provided exposure to five well-deserving Ugandan entrepreneurs, expanding their audience to over 2000 people through producing a monthly radio show",
         "Developed a documentary on CEED Concordia, providing exposure to the program and teaching media production skills and practices to other interns in the program"
-      ]
+      ],
+      "name": "Concordia University",
+      "location": "Montreal, QC"
     },
     {
       "company": "UserTesting",
